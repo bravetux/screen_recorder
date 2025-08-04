@@ -1,4 +1,4 @@
-readme_content = """# 🎥 Screen & Audio Recorder with Hotkeys and GUI
+## 🎥 Screen & Audio Recorder with Hotkeys and GUI
 
 This Python application allows you to record your screen and audio simultaneously, take screenshots, and combine the recordings into a single video file using FFmpeg. It features a Tkinter-based GUI and global hotkeys for easy control.
 
